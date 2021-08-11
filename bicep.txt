@@ -4,3 +4,4 @@ Welcome to my azure bicep repository.
 
 Storage Account
 VNET
+Virtual Machine
