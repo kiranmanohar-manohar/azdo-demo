@@ -6,6 +6,8 @@ Storage Account
 VNET
 Virtual Machine
 
+EventHub
+Batch
 
 
 Thank you.
